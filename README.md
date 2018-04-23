@@ -1,4 +1,3 @@
-
 #  PHP web application to show Countries List  (using Laravel 5.6 && Angular5)
 
 ## About PHP API: Developed with Laravel 5.6
