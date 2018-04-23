@@ -27,7 +27,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ### Demo
 
-<a target="_blank" href="http://35.192.74.184/">Live Demo</a>
+<a target="_blank" href="https://web-country.yvestoupe.com/">Live Demo</a>
 
 
 ### API Instalation
