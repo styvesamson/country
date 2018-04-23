@@ -38,7 +38,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 - go into api folder
 - Next, we need to install the project dependencies using composer
 composer install
-- Configure the .env file
+- Create && Configure the .env file
 - run the migration and seeds
 - -> php artisan migrate:refresh --seed
 - run a local artisan server
