@@ -20,10 +20,3 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 /**GET COUNTRY-CODE ROUTE*/
 Route::get('/country', 'CountryController@index');
-
-/**GET CODE-COUNTRY ROUTE*/
-Route::get('/country-flip', 'CountryController@flip');
-
-
-/**GET SORTED-COUNTRY ROUTE*/
-Route::get('/country-sort', 'CountryController@sort');
